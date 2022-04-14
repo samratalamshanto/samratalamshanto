@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React, Node Js, Keras, Pandas, OpenCV**
 
 - 📫 How to reach me **samratalamshanto710@gmail.com**
-- <br />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
