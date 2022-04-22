@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Samrat Alam</h1>
 <h3 align="center">I'm interested in developing Machine Learning, NLP, AI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratalamshanto&label=Profile%20views&color=0e75b6&style=flat" alt="samratalamshanto" /> </p>
 
 
 - 🌱 I’m currently learning **React, Node Js, Keras, Pandas, OpenCV**
