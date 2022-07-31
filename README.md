@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Samrat Alam</h1>
 <h3 align="center">I'm interested in developing Machine Learning, NLP, AI.</h3>
-
+<h3 align="center">Anyone who keeps learning stays young. Thats' why I am always ready to learn.</h3>
 
 
 - 🌱 I’m currently learning **React, Node Js, Keras, Pandas, OpenCV**
