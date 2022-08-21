@@ -38,6 +38,11 @@
 <br />
 
 <b>&#128200; Competitive Programming</b>
+<p align="left">
+  <a href="https://leetcode.com/samratalamshanto/">
+    <img src="https://cp-logo.vercel.app/leetcode/samratalamshanto" alt="Leet code rating" />
+  </a>
+</p>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/samratalamshanto?theme=light&font=Karma&ext=contest" />
 </p>
