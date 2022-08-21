@@ -24,16 +24,14 @@
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samratalamshanto" alt="samratalamshanto" /></a> </p>
-
+<b>⚡ Github Stats</b>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samratalamshanto" alt="samratalamshanto" /></a> </p>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratalamshanto&show_icons=true&locale=en&layout=compact" alt="samratalamshanto" /></p>
 <br />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samratalamshanto&show_icons=true&locale=en" alt="samratalamshanto" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratalamshanto&" alt="samratalamshanto" /></p>
 
 <b>&#128200; Competitive Programming</b>
