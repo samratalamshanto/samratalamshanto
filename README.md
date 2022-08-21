@@ -36,3 +36,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratalamshanto&" alt="samratalamshanto" /></p>
 
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/samratalamshanto?theme=light&font=Karma&ext=contest" />
+</p>
+
