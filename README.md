@@ -34,9 +34,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
