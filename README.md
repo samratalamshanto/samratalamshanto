@@ -26,9 +26,10 @@
 
 <b>⚡ Github Stats</b>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samratalamshanto&show_icons=true&locale=en" alt="samratalamshanto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratalamshanto&" alt="samratalamshanto" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratalamshanto&show_icons=true&locale=en&layout=compact" alt="samratalamshanto" /></p>
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratalamshanto&" alt="samratalamshanto" /></p>
+
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
