@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Samrat Alam</h1>
 <h3>Hardworking and Passionate Developer.I enjoy learning about the new technologies and love building Projects. I'm interested in trying anything new.</h3>
 <h3>Anyone who keeps learning stays young. Thats' why I am always ready to learn.</h3>
-<h3 >“Learning to code is learning to create and innovate.”</h3>
+<h3>“Learning to code is learning to create and innovate.”</h3>
 
 <br/>
 
