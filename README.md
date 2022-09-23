@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **React, Redux, MERN, Node Js, Express Js**
+- 🌱 I’m currently learning **Spring Boot, React, Redux, MERN, Node Js, Express Js**
 
 - 📫 How to reach me **samratalamshanto710@gmail.com**
 
