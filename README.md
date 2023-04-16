@@ -67,7 +67,7 @@
 
 <b>&#128200; Competitive Programming</b>
 <p align="left">
-  <a href="https://leetcode.com/samratalamshanto/">
+  <a href="https://leetcode.com/samratalam/">
     <img src="https://cp-logo.vercel.app/leetcode/samratalamshanto" alt="Leet code rating" />
   </a>
 </p>
