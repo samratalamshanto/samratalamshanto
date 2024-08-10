@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Samrat Alam</h1>
-<h3>Hardworking and Passionate Developer. I enjoy learning about the new technologies and love building Projects. I'm interested in trying anything new.</h3>
-<h3>Anyone who keeps learning stays young. Thats' why I am always ready to learn.</h3>
-<h3>“Learning to code is learning to create and innovate.”</h3>
+<h3>Passionate and dedicated software engineer with over 2 years of experience in developing and managing complex systems and applications. Committed to continuous skill enhancement and meaningful contributions to projects. Excels in collaborating with like-minded professionals to deliver high-quality solutions and drive technological advancements.</h3>
 
 <br/>
 
