@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Samrat Alam</h1>
-<h3>Passionate and dedicated software engineer with over 2 years of experience in developing and managing complex systems and applications. Committed to continuous skill enhancement and meaningful contributions to projects. Excels in collaborating with like-minded professionals to deliver high-quality solutions and drive technological advancements.</h3>
+<h3>Passionate and dedicated software engineer with over 3 years of experience in developing and managing complex systems and applications. Committed to continuous skill enhancement and meaningful contributions to projects. Excel in collaborating with like-minded professionals to deliver high-quality solutions and drive technological advancements.</h3>
 
 <br/>
 
