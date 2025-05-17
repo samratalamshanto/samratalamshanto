@@ -2,14 +2,16 @@
 <h3 align="center">🚀 Sr. Software Engineer | Backend & Full-Stack Developer | 3+ Years of Experience</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2000&pause=1500&color=2299F7&center=true&vCenter=true&random=true&width=800&lines=Sr.+Software+Engineer+|+Backend+%26+Full-Stack+Developer+|+3%2B+Years+of+Experience" alt="Typing SVG" />
+  </a>
+</p>
+
+
+<p align="center">
   Passionate about building scalable, distributed systems and writing clean, maintainable code. I believe in continuous learning, strong collaboration, and solving real-world problems with technology.
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2000&pause=1500&color=2299F7&center=true&vCenter=true&random=true&width=500&lines=Software+Engineer;Learner" alt="Typing SVG" />
-  </a>
-</p>
 ---
 
 ## 🧑‍💻 About Me
