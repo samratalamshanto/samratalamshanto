@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samrat Alam</h1>
-<h3 align="center">🚀 Software Engineer | 3+ Years Experience | Backend & Full-Stack Developer</h3>
+<h3 align="center">🚀 Sr. Software Engineer | Backend & Full-Stack Developer | 3+ Years of Experience</h3>
 
 <p align="center">
-  Passionate about building scalable systems and delivering high-quality code. Strong collaborator, eager learner, and dedicated to continuous improvement.
+  Passionate about building scalable, distributed systems and writing clean, maintainable code. I believe in continuous learning, strong collaboration, and solving real-world problems with technology.
 </p>
 
 ---
@@ -10,30 +10,29 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working as a **Sr. Software Engineer**
-- 🎯 Focused on **Backend Development**, **Microservices**, and **Scalable Distributed Systems**
-- 💡 Exploring system design, Spring ecosystem, and distributed architecture
-- 🧠 I regularly solve DSA problems on [LeetCode](https://leetcode.com/Samratalam710/)
-- 🗂️ I love documenting things — check out my featured projects & contributions below
-- 📫 Reach me at **samratalamshanto710@gmail.com**
+- 🎯 Specializing in **Backend Development**, **Microservices**, and **Scalable Distributed Systems**
+- 💡 Deeply interested in system design, the Spring ecosystem, and modern backend architecture
+- 🧠 Regular problem solver on [LeetCode](https://leetcode.com/samratalam/)
+- 📫 Reach me at: **samratalamshanto710@gmail.com**
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔹 Spring Boot & Microservices
-- 🔹 System Design (LLD + HLD)
-- 🔹 Go for Backend Development (Gin, GORM, PostgreSQL, Redis)
+- Spring Boot & Microservices (Advanced Patterns)
+- System Design (LLD + HLD)
+- Go for Backend (Gin, GORM, PostgreSQL, Redis)
 
 ---
 
-## 🛠️ Technologies I’m Actively Using
+## 🛠️ Tech Stack
 
-### 💻 Backend & Frameworks
+### 💻 Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend
@@ -43,7 +42,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🧰 Tools & DevOps
+### 🛠 Tools & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -71,10 +70,20 @@
 
 ---
 
-## 🏁 Competitive Programming
+## 🧠 DSA & Problem Solving
 
-- 🧠 I regularly solve problems on [LeetCode](https://leetcode.com/Samratalam710/)
-- 🏅 Passionate about DSA, algorithm optimization, and code efficiency
+- Active on [LeetCode](https://leetcode.com/samratalam/) — solving problems regularly
+- Interested in algorithm optimization and code efficiency
+
+<p align="left">
+  <a href="https://leetcode.com/samratalam/">
+    <img src="https://cp-logo.vercel.app/leetcode/samratalam" alt="LeetCode rating" />
+  </a>
+</p>
+
+<p float="left">
+  <img height="273em" src="https://leetcard.jacoblin.cool/samratalam?theme=light&font=Karma&ext=contest" />
+</p>
 
 ---
 
