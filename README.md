@@ -5,6 +5,11 @@
   Passionate about building scalable, distributed systems and writing clean, maintainable code. I believe in continuous learning, strong collaboration, and solving real-world problems with technology.
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2000&pause=1500&color=2299F7&center=true&vCenter=true&random=true&width=500&lines=Software+Engineer;Learner" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ## 🧑‍💻 About Me
@@ -47,6 +52,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ### 🗃️ Databases & Messaging
@@ -67,6 +73,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samratalamshanto&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samratalamshanto&layout=compact&theme=radical" />
 </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sbmagar13&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -75,17 +86,21 @@
 - Active on [LeetCode](https://leetcode.com/samratalam/) — solving problems regularly
 - Interested in algorithm optimization and code efficiency
 
-<p float="left">
+<p float="center">
   <img height="273em" src="https://leetcard.jacoblin.cool/samratalam?theme=light&font=Karma&ext=contest" />
 </p>
 
 ---
 
 ## 📈 Visitor Count
-
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=samratalamshanto" alt="Visitor badge" />
-</p>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="right">Visitors Count:</td>
+      <td align="left"><img src="https://profile-counter.glitch.me/sbmagar13/count.svg" alt="Visitor Count" /></td>
+    </tr>
+  </table>
+</div>
 
 ## 🌐 Connect With Me
 
