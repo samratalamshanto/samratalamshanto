@@ -75,12 +75,6 @@
 - Active on [LeetCode](https://leetcode.com/samratalam/) — solving problems regularly
 - Interested in algorithm optimization and code efficiency
 
-<p align="left">
-  <a href="https://leetcode.com/samratalam/">
-    <img src="https://cp-logo.vercel.app/leetcode/samratalam" alt="LeetCode rating" />
-  </a>
-</p>
-
 <p float="left">
   <img height="273em" src="https://leetcard.jacoblin.cool/samratalam?theme=light&font=Karma&ext=contest" />
 </p>
