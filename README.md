@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2000&pause=1500&color=2299F7&center=true&vCenter=true&random=true&width=800&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;3%2B+Years+of+Experience;Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=2000&pause=1500&color=2299F7&center=true&vCenter=true&random=true&width=800&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;3%2B+Years+of+Experience;Java, Spring Boot;System Design, Microservices, Distributed Systems;Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -88,8 +88,8 @@
 - Active on [LeetCode](https://leetcode.com/samratalam/) — solving problems regularly
 - Interested in algorithm optimization and code efficiency
 
-<p float="center">
-  <img height="273em" src="https://leetcard.jacoblin.cool/samratalam?theme=light&font=Karma&ext=contest" />
+<p align="center">
+  <img height="273px" src="https://leetcard.jacoblin.cool/samratalam?theme=light&font=Karma&ext=contest" />
 </p>
 
 ---
@@ -99,7 +99,7 @@
   <table align="center">
     <tr>
       <td align="right">Visitors Count:</td>
-      <td align="left"><img src="https://profile-counter.glitch.me/sbmagar13/count.svg" alt="Visitor Count" /></td>
+      <td align="left"><img src="https://profile-counter.glitch.me/samratalamshanto/count.svg" alt="Visitor Count" /></td>
     </tr>
   </table>
 </div>
