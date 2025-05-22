@@ -16,11 +16,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working as a **Sr. Software Engineer**
-- 🎯 Specializing in **Backend Development**, **Microservices**, and **Scalable Distributed Systems**
-- 💡 Deeply interested in system design, the Spring ecosystem, and modern backend architecture
-- 🧠 Regular problem solver on [LeetCode](https://leetcode.com/samratalam/)
-- 📫 Reach me at: **samratalamshanto710@gmail.com**
+- 🔭 Currently working as a **Senior Software Engineer**
+- 🚀 Passionate about building **robust, scalable, and high-performance backend systems**
+- 🎯 Specialized in **Backend Development**, **Microservices Architecture**, and **Distributed Systems**
+- 💡 Strong interest in **System Design**, the **Spring ecosystem**, and **Modern Backend Architectures**
+- 🧠 Consistent problem solver on [LeetCode](https://leetcode.com/samratalam/)
+- 📬 Reach me at: **samratalamshanto710@gmail.com**
+- 📄 [Resume](https://www.linkedin.com/in/samrat-alam/overlay/1747923758099/single-media-viewer/?profileId=ACoAACe7qW0BkZOtk64wXxEHLRi5Y6n9acwKQYs)
 
 ---
 
