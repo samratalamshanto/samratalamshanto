@@ -22,7 +22,7 @@
 - 🧠 Consistent problem solver on [LeetCode](https://leetcode.com/samratalam/)
 - 🌐 Portfolio: https://samratalamshanto.github.io/portfolio/
 - 📬 Reach me at: **samratalam21@gmail.com**
-- 📄 [Resume](https://www.linkedin.com/in/samrat-alam/overlay/1747923758099/single-media-viewer/?profileId=ACoAACe7qW0BkZOtk64wXxEHLRi5Y6n9acwKQYs)
+- 📄 [Resume](https://samratalamshanto.github.io/portfolio/assets/Samrat_Alam_Resume.pdf)
 ---
 
 ## 🌱 Currently Learning
